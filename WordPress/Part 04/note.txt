@@ -1,0 +1,40 @@
+Database Information
+
+
+Database name: wahid
+Database username: brinto
+Database user Password: EzRJ9s7UG6hNq6yO
+Darabase Host: local
+Table Prefix: mh_
+
+
+
+
+WordPress Database Login Info
+User name: wahid
+Password: KkW]y3d;;x:KfF-4
+
+
+
+Live Server
+-----------
+Database Information:
+Database name : codersfq_test
+Database user name:
+Database user Password:
+Table Prefix: mh_
+WordPress Dashboard Login Info
+
+Username: 
+Password:
+
+
+
+
+
+
+
+Add new user 
+Username : brinto
+email: brinto259raj@gmail.com
+pass : 12345
